@@ -19,11 +19,11 @@ Le jeu n'est pas inclus dans ce dépôt : il est chargé depuis Kaggle (`/kaggle
 ## Résultats
 | Modèle | AUC CV | AUC test | Rappel | F1 |
 |---|---|---|---|---|
-| Régression logistique | 0,846 | | | |
-| Arbre de décision | 0,832 | | | |
-| KNN | 0,835 | | | |
-| Random Forest | 0,848 | | | |
-| XGBoost | | | | |
+| Régression logistique | 0,846 | 0.841 |0.783|0.614|
+| Arbre de décision | 0,832 |0.837 | 0.749| 0.617|
+| KNN | 0,835 |0.826 | 0.570|0.582 |
+| Random Forest | 0,848 |0.844 |0.789 |0.632|
+| XGBoost | 0.850| 0.847|0.807 | 0.636|
 
 
 
