@@ -1,0 +1,17 @@
+# Données (jeu Kaggle : ne pas redistribuer, voir le lien dans le README)
+data/
+*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Secrets
+kaggle.json
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
