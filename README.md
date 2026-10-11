@@ -28,7 +28,7 @@ The idea of this project is to predict if a given Teleco client will churn or no
 ## Streamlit web app 
 
 **Web app interface showing data distribution and statistics** 
-![Web App](image/Web_app.png) 
+![Web App](image/web_app.png) 
 
 **Summary table of model's metrics and bar plot** 
 ![Models](image/Models.png) 
